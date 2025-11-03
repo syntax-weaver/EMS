@@ -1,5 +1,8 @@
 # Ems
 
+This project was developed collaboratively with https://github.com/AmiraMohamed56 and https://github.com/marumayman-47 
+My main contributions included: frontend architecture, Angular components, and UI design.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.4.
 
 ## Development server
